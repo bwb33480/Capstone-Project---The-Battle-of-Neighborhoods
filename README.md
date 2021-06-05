@@ -3,9 +3,9 @@
 bwb-Battle-of-the-Neighborhoods-w4-1
 Capstone-Project---The-Battle-of-Neighborhoods
 
-image
+![image](https://user-images.githubusercontent.com/78384555/120907112-04b91b00-c62d-11eb-90c9-5293eda7cbe9.png)
 
-image
+![image](https://user-images.githubusercontent.com/78384555/120907117-0d115600-c62d-11eb-8309-1e4f69f3d48e.png)
 
 1A) Background Discussion
 
