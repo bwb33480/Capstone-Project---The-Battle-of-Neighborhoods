@@ -32,7 +32,9 @@ Toronto historically has a low crime rate making it one of the safest major citi
 
 >>>> This analysis of Toronto is from the perspective of a potential investor who is interested in opening one or more restaurants. <<<<
 
-In particular, this investor is looking at investing and opening fast food restaurants and/or pizza restaurants. In this case 'fast food restaurants' refer to the well-known national brands (eg Arby's, Mcdonalds, Burger King, Subway, Wendy's, etc.) These franchises have international brand recognition as well as established business plans, logistic support, and pricing. Pizza restaurants are a special case of 'fast food' and require a different level of investment and logistics than the national brands (although Papa Johns, Pizza Hut, and Dominos could be investment options).
+In particular, this investor is looking at investing and opening fast food restaurants and/or pizza restaurants. In this case 'fast food restaurants' refer to the well-known national brands (eg Arby's, Mcdonalds, Burger King, Subway, Wendy's, etc.) These franchises have international brand recognition as well as established business plans, logistic support, and pricing. 
+
+Pizza restaurants are a special case of 'fast food' and require a different level (perhaps lower) of investment and logistics than the national brands (although Papa Johns, Pizza Hut, and Dominos could be investment options).
 
 Determining the potential location of a restaurant is one of the most important factors affecting its future success or a failure.
 
