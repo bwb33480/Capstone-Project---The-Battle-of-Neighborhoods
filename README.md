@@ -30,9 +30,9 @@ Toronto historically has a low crime rate making it one of the safest major citi
 
 1B) Business Problem to be Analyzed
 
-This analysis of Toronto is from the perspective of a potential investor who is interested in opening one or more restaurants.
+>>>> This analysis of Toronto is from the perspective of a potential investor who is interested in opening one or more restaurants. <<<<
 
-In particular, this investor is looking at investing and opening fast food restaurants and/or pizza restaurants. In this case 'fast food restaurants' refer to the well-known national brands (eg Arby's, Mcdonalds, Burger King, Subway, Wendy's, etc.) These franchises have international brand recognition as well as established business plans, logistic support, and pricing. Pizza restaurants are a special case of 'fast food' and require a different level of investment and logistics than the national brands (although Papa Johns, Pizza Hut, and Dominos could be investment options.
+In particular, this investor is looking at investing and opening fast food restaurants and/or pizza restaurants. In this case 'fast food restaurants' refer to the well-known national brands (eg Arby's, Mcdonalds, Burger King, Subway, Wendy's, etc.) These franchises have international brand recognition as well as established business plans, logistic support, and pricing. Pizza restaurants are a special case of 'fast food' and require a different level of investment and logistics than the national brands (although Papa Johns, Pizza Hut, and Dominos could be investment options).
 
 Determining the potential location of a restaurant is one of the most important factors affecting its future success or a failure.
 
@@ -40,7 +40,8 @@ So our project will attempt to answer the question: “Where should the investor
 
 1C) Problem Statement
 
-What are the best locations for fast food franchises and/or pizza places in Toronto (specifically postal codes starting with 'M')?
+>>>> What are the best locations for fast food franchises and/or pizza places in Toronto (specifically postal codes starting with 'M')? <<<<
+
 
 2A) Data
 
@@ -48,7 +49,7 @@ In order to answer the above questions, data is collected on Toronto neighborhoo
 
 All of this data is compiled and sorted by postal code.
 
-Data has been collected from the FourSquare API utilized via the Request library in Python. Additional data has been collected from cybo.com, wikipedia.com, and www150.statcan.gc.ca .
+Data has been collected from the FourSquare API utilized via the Request library in Python. Additional data has been collected from cybo.com, wikipedia.com, yellowpages.ca, and www150.statcan.gc.ca .
 
 2B) Methodology
 
@@ -56,7 +57,7 @@ i) Data will be compiled by postal code in Toronto. (Toronto 3-character postal 
 
 ii) The data will be collected using the FourSquare API, BeautifulSoup, as well as manually from other websites (see above).
 
-Iii) The data is then inspected, cleaned and processed into a dataframe.
+iii) The data is then inspected, cleaned and processed into a dataframe.
 
 iv) Data will be sorted based on rankings.
 
