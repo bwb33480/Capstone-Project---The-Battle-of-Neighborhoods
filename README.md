@@ -18,13 +18,14 @@ Capstone-Project---The-Battle-of-Neighborhoods
 
 Toronto is the capital city of the Canadian province of Ontario. It is the most populous city in Canada. Toronto is an international center for business and finance. It's the financial and industrial center with a high concentration of banks and brokerage firms in the Financial District.
 
-In 2016 (last census), Toronto's city proper had a population of 2,731,571; the urban area had a population of 5,429,524; the census metropolitan area had a population of 5,928,040; and the Greater Toronto Area metropolitan area had a population of 6,417,516.
+From wikipedia:
+"In 2016 (last census), Toronto's city proper had a population of 2,731,571; the urban area had a population of 5,429,524; the census metropolitan area had a population of 5,928,040; and the Greater Toronto Area metropolitan area had a population of 6,417,516.
 
 The city's foreign-born persons made up 47% of the population. No single nationality or culture dominates Toronto's immigrant population, placing it among the most diverse cities in the world. In 2016, the three most commonly reported ethnic origins overall were Chinese (12.5%), English (12.3%) and Canadian (12.0%).
 
-Toronto historically has a low crime rate making it one of the safest major cities in North America. In 2007, the homicide rate for Toronto was 3.3 per 100,000 people, compared with Atlanta (19.7), Boston (10.3), Los Angeles (10.0), New York City (6.3), Vancouver (3.1), and Montreal (2.6). Toronto's robbery rate also ranks low, with 207.1 robberies per 100,000 people, compared with Los Angeles (348.5), Vancouver (266.2), New York City (265.9), and Montreal (235.3).
+Toronto historically has a low crime rate making it one of the safest major cities in North America. In 2007, the homicide rate for Toronto was 3.3 per 100,000 people, compared with Atlanta (19.7), Boston (10.3), Los Angeles (10.0), New York City (6.3), Vancouver (3.1), and Montreal (2.6). Toronto's robbery rate also ranks low, with 207.1 robberies per 100,000 people, compared with Los Angeles (348.5), Vancouver (266.2), New York City (265.9), and Montreal (235.3)."
 
-This demographic background makes Toronto an attractive destination for potential business investment.
+>>>> This demographic background makes Toronto an attractive destination for potential business investment.
 
 1B) Business Problem to be Analyzed
 
