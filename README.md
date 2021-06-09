@@ -1,13 +1,10 @@
 # Capstone-Project---The-Battle-of-Neighborhoods
 
-For this week, you will required to submit the following:
+PLEASE GO TO THE DOCX FILE FOR FULL REPORT:
+bwb Capstone Battle of the Neighborhoods-Toronto w5.docx
 
-1) A description of the problem and a discussion of the background. (15 marks) >>>>  (see 1A, 1B, 1C below)
-2) A description of the data and how it will be used to solve the problem. (15 marks) >>>>  (see 2A, 2B below)
+THIS IS JUST A SHORT SUMMARY.
 
-
-
-bwb-Battle-of-the-Neighborhoods-w4-1
 Capstone-Project---The-Battle-of-Neighborhoods
 
 ![image](https://user-images.githubusercontent.com/78384555/120907112-04b91b00-c62d-11eb-90c9-5293eda7cbe9.png)
