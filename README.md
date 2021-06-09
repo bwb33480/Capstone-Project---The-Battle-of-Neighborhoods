@@ -6,6 +6,7 @@ bwb Capstone Battle of the Neighborhoods-Toronto w5.docx
 THIS IS JUST A SHORT SUMMARY.
 
 [NOTE! THERE ARE TWO ipynb FILES OF CODE FOR THIS PROJECT!!:
+
 bwb Capstone Project Battle of the Neighborhoods week 5 pizza.ipnyb
 bwb Capstone Project Battle of the Neighborhoods week 5 fastfood.ipnyb ]
 
